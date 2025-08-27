@@ -24,7 +24,7 @@
 
     <hr>
 
-    <h2>List Users</h2>
+    <h2>Registered Users</h2>
     <ul id="userList"></ul>
 
     <script>
